@@ -1,0 +1,2 @@
+# install pandas
+$ pip install pandas # automatically installs numpy and others
